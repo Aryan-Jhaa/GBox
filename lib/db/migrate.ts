@@ -20,7 +20,7 @@ async function runMigration() {
         
         
     } catch (error) {
-        console.log("All migrations are successfully done");
+        console.log("Migration unsuccessfully done, (catch ./lib/db/migrats.ts)");
         process.exit(1);
     }
 }
