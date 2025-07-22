@@ -26,7 +26,7 @@ GBox is a full-stack web application inspired by Dropbox and Drive, built to pro
 
 ---
 
-## ✨ Why Droply?
+## ✨ Why GBox?
 
 Managing files should be simple, elegant, and fast. Droply combines performance with simplicity and offers:
 
